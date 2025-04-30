@@ -2,6 +2,9 @@
 c#WebsocketSever测试源工程，可二次开发，可自用
 ​
 
+新增修改Ip按钮功能，同时在里面加入了报错配置错误启动机制
+![image](https://github.com/user-attachments/assets/12428067-e42a-4414-b0a5-ce6ef32414da)
+
 
 这是一个winFrom的小工具，用于再本机创建一个c#服务的项目。
 
